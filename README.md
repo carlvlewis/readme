@@ -7,7 +7,7 @@
 --
 </br>
 
-This repository contains a selection of the data -- and select source code and methodologies -- behind the articles, graphics and interactives at (http://stltoday.com)[STLToday.com].
+This repository contains a selection of the data -- and select source code and methodologies -- behind the articles, graphics and interactives at [STLToday.com](http://stltoday.com).
 
 We hope you'll use it to check our work and to create stories and visualizations of your own. The data is available under the (http://creativecommons.org/licenses/by/4.0/)[Creative Commons Attribution 4.0 International License] and the code is available under the (http://opensource.org/licenses/MIT)[MIT License].
 
